@@ -26,7 +26,7 @@ The generated executable just prints encrypted and decrypted "Hello world.
 
 Here's the source "code" for `main`:
 
-![main function](https://github.com/dchest/drakon-tea/blob/master/pics/main.png)
+![main function](https://github.com/dchest/drakon-tea/raw/master/pics/main.png)
 
 
 License
