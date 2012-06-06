@@ -22,7 +22,7 @@ To compile and run C code:
 
 To regenerate code, open it in DRAKON Editor and click DRAKON > Generate code.
 
-The generated executable just prints encrypted and decrypted "Hello world.
+The generated executable just prints encrypted and decrypted "Hello world!".
 
 Here's the source "code" for `main`:
 
