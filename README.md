@@ -1,7 +1,8 @@
 DRAKON-TEA
 ==========
 
-TEA cipher in CBC mode written in [DRAKON Editor](http://drakon-editor.sourceforge.net/) + C as a fun exercise.
+TEA cipher in CBC mode with PKCS #7 padding  written in
+[DRAKON Editor](http://drakon-editor.sourceforge.net/) + C as a fun exercise.
 
 
 Files
